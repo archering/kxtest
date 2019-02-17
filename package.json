@@ -1,0 +1,20 @@
+{
+  "name": "kxtest",
+  "version": "1.0.0",
+  "description": "a test project for build a CLI",
+  "preferGlobal": "true",
+  "bin": {
+    "kxtest": "index.js"
+  },
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ericever",
+  "enail":"zhangdong14@huawei.com",
+  "license": "ISC"
+}
