@@ -6,6 +6,10 @@
   "bin": {
     "kxtest": "index.js"
   },
+  "repository":{
+    "type":"git",
+    "url":"git@github.com:archering/kxtest.git"
+  },
   "main": "index.js",
   "directories": {
     "lib": "lib"
