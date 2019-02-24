@@ -1,14 +1,14 @@
 {
   "name": "kxtest",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "a test project for build a CLI",
   "preferGlobal": "true",
   "bin": {
     "kxtest": "index.js"
   },
-  "repository":{
-    "type":"git",
-    "url":"git@github.com:archering/kxtest.git"
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:archering/kxtest.git"
   },
   "main": "index.js",
   "directories": {
@@ -19,6 +19,6 @@
   },
   "keywords": [],
   "author": "ericever",
-  "enail":"zhangdong14@huawei.com",
+  "enail": "zhangdong14@huawei.com",
   "license": "ISC"
 }
